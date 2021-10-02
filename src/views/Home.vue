@@ -133,7 +133,7 @@ export default {
             }
           ],
           description:
-            "When I started my jearny with Python, it was very scary. A new language, with so many different possibilities, becomes overwhelming very quickly. But slowing it down by finding a couple of projects I could do with it and narrowing it down made it so much easier. I began with the basics, the print functions, the first “hello world” and then went on to make a converter for currencies, the joy I had from seeing the code work was priceless, the dread from when it didn’t make me more scared. But this love for code then involved into web automation and making many mundane tasks I had at the time done quicker. It took me around a year to learn the necessary steps I needed but I still have a long journey ahead which I can't wait for! ",
+            "When I started my journey with Python, it was very scary. A new language, with so many different possibilities, becomes overwhelming very quickly. But slowing it down by finding a couple of projects I could do with it and narrowing it down made it so much easier. I began with the basics, the print functions, the first “hello world” and then went on to make a converter for currencies, the joy I had from seeing the code work was priceless, the dread from when it didn’t make me more scared. But this love for code then involved into web automation and making many mundane tasks I had at the time done quicker. It took me around a year to learn the necessary steps I needed but I still have a long journey ahead which I can't wait for! ",
           technologies: [
             {
 
@@ -227,7 +227,7 @@ export default {
             }
           ],
           description:
-            "SCOOPY DA POOPY",
+            "After a while of learning 3D software , it come apparent that I was lacking in lihgting, lighting is a key functionality of making the final render look clean and crisp, so in advance to this, I began learning through courses on how to do lighting, how to set my camera and where my focus should be set, nowadays I don’t even have to think about it and it’s second nature to me.",
           technologies: [
             {
 
@@ -255,7 +255,7 @@ export default {
             }
           ],
           description:
-            "I AM SO LONLEY LOL",
+            "I had also been experimenting with realistic advert type renders, one of them one a PS5 mock-up, this was all made by me, the models the lighting and text. I wanted to see how close to a real advert I could get alongside an editing skill. It came out nicely and I'm very proud of it, and I keep learning how to make it more cinematic than before.",
           technologies: [
             {
 
