@@ -32,11 +32,11 @@
     </v-card-title>
     <v-card-text>
       <div>{{app.description}}</div>
-      <div class="title mt-2"></div>
+      <div class="title mt-1"></div>
       <v-layout>
         <template v-for="(tech, i) in app.technologies">
           <v-flex xs3 :key="i">
-            <div class="text-center">
+            <div class="text-center" >
               <v-btn icon>
                 <v-icon>{{tech.icon}}</v-icon>
               </v-btn>
