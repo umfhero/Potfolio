@@ -200,7 +200,7 @@ export default {
             }
           ],
           description:
-            "Around 2019 I stumbled upon a very appealing post made by a user on Instagram, I instantly fell in love with it and asked what software they used, they replied Blender. I searched it up, found tutorials and eminently fell in love with it. The 3D view I was given from it and the capabilities that I couldn’t get from ordinary 2D software blew my mind. I remember rendering my first project, a doughnut, I was so proud of myself, yet I wanted to push myself even further. I would always try learning all the different functions of the blender, the nodes, the textures and how each part works. I became very good quickly and after 3 years I'm proud of where I am and what I have accomplished, iv gotten commission and even started a shop selling the models I had made which came quite profitable.",
+            "Around 2019, I stumbled upon a very appealing post made by a user on Instagram, I instantly fell in love with it and asked what software they used, they replied Blender. I searched it up, found tutorials and eminently fell in love with it. The 3D view I was given from it and the capabilities that I couldn’t get from ordinary 2D software blew my mind. I remember rendering my first project, a doughnut, I was so proud of myself, yet I wanted to push myself even further. I would always try learning all the different functions of the blender, the nodes, the textures and how each part works. I became very good quickly and after 3 years I'm proud of where I am and what I have accomplished, iv gotten commission and even started a shop selling the models I had made which came quite profitable.",
           technologies: [
             {
 
