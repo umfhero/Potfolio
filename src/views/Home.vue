@@ -93,7 +93,7 @@ export default {
         
       apps: [
         {
-          name: "2D Art wwwwwwwwwwwwwwwwwwww Process",
+          name: "2D Art Process",
           price: "Procreate",
           logo: "food-vision-logo.png",
           platforms: [
